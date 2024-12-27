@@ -6,3 +6,4 @@ langchain_community
 langserve
 fastapi
 uvicorn
+sse_starlette
